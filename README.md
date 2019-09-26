@@ -10,10 +10,19 @@ up to Intellisense as soon as the file is saved to disk.
 
 ## Table of Contents
 
+* [Projects using CodeGeneration.Roslyn][]
 * [How to write your own code generator][]
 * [Apply code generation][]
 * [Developing your code generator][]
 * [Packaging up your code generator for others' use][]
+
+## Projects using CodeGeneration.Roslyn
+[Projects using CodeGeneration.Roslyn]: #Projects using CodeGeneration.Roslyn
+
+* [StronglyTypedId](https://github.com/andrewlock/StronglyTypedId) - generate the boilerplate required to use strongly-typed IDs
+* [ImmutableObjectGraph](https://github.com/AArnott/ImmutableObjectGraph) - make writing immutable objects much easier
+* [C# Functional Programming Language Extensions](https://github.com/louthy/language-ext) - make programming in C# much more reliable and change the engineer's inertia flow in the direction of declarative and functional code rather than imperative.
+* [pinvoke](https://github.com/AArnott/pinvoke) - A collection of libraries intended to contain all P/Invoke method signatures for popular operating systems
 
 ## How to write your own code generator
 [How to write your own code generator]: #how-to-write-your-own-code-generator
